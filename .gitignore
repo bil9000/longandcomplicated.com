@@ -1,4 +1,4 @@
-
+node_modules
 
 #amplify
 amplify/\#current-cloud-backend
@@ -18,3 +18,4 @@ amplify-build-config.json
 amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
+log.txt
