@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-luke-staging-61019-authRole",
+      "UnauthRoleArn": "arn:aws:iam::594405517228:role/amplify-luke-staging-61019-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::594405517228:role/amplify-luke-staging-61019-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-luke-staging-61019-deployment",
+      "UnauthRoleName": "amplify-luke-staging-61019-unauthRole",
+      "StackName": "amplify-luke-staging-61019",
+      "StackId": "arn:aws:cloudformation:us-east-1:594405517228:stack/amplify-luke-staging-61019/adbfee60-588a-11eb-a20e-0e6b672d4ae7",
+      "AmplifyAppId": "d3rfj203a2hktp"
+    },
+    "categories": {
+      "auth": {
+        "luke": {}
+      }
+    }
+  }
+}

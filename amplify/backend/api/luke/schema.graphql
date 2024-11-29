@@ -1,0 +1,11 @@
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  firstname: String
+  lastname: String
+  email: String
+}
+
+type File @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  filename: String
+}
